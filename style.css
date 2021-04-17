@@ -1,0 +1,19 @@
+.main{
+    border: 1px solid black;
+    width: 500px;
+    height: 255px;
+    margin: auto;
+    display: flex;
+}
+.child1{
+    width: 240px;
+    height: 240px;
+    border: 2px solid darkcyan;
+    margin-top: 5px;
+}
+.child2{
+    width: 240px;
+    height: 240px;
+    border: 2px solid darkgoldenrod;
+    margin: 5px;
+}
